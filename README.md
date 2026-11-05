@@ -1,4 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Aadarsh Sudarsan
+
+💻 Software Testing Enthusiast | Aspiring QA Engineer
+
+I'm a Computer Science Engineering graduate passionate about software quality, technology, and problem-solving. Currently exploring automation testing and improving my development skills.
+
+🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Graduate
+
+🔍 Interested in Software Testing & Quality Assurance
+
+☕ Learning Java and Selenium Automation
+
+🗄️ Working with SQL and MySQL
+
+🌱 Always learning and building new things
 
 <!--
 **adarshsudarsan/adarshsudarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
