@@ -1,10 +1,10 @@
-👋 Hi, I'm Aadarsh Sudarsan
+👋 Hi, I'm Adarsh Sudarsan
 
 💻 Software Testing Enthusiast | Aspiring QA Engineer
 
 I'm a Computer Science Engineering graduate passionate about software quality, technology, and problem-solving. Currently exploring automation testing and improving my development skills.
 
-🚀 About Me
+About Me
 
 🎓 B.Tech Computer Science Engineering Graduate
 
