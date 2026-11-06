@@ -43,7 +43,6 @@ Passionate about Software Testing, Automation, Web Development and Creative Edit
 ## 🚀 Currently Working On
 
 - Improving Automation Testing skills using Selenium.
-- Learning API Testing with Postman.
 - Practicing Java and Python programming.
 - Exploring software quality assurance.
 
