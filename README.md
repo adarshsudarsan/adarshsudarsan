@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Adarsh Sudarshan
+# Hi 👋, I'm Adarsh Sudarsan
 
 ### Software Tester | QA Engineer | Developer | Video Editor
 
@@ -28,7 +28,6 @@ Passionate about Software Testing, Automation, Web Development and Creative Edit
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-007ACC?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Automation Testing](https://img.shields.io/badge/Automation_Testing-6DB33F?style=for-the-badge&logo=robotframework&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-6C3483?style=for-the-badge&logo=postman&logoColor=white)
 ![QA Testing](https://img.shields.io/badge/QA_Testing-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
