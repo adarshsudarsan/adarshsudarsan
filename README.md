@@ -7,7 +7,6 @@
 
 Passionate about Software Testing, Automation, Web Development and Creative Editing.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)](https://github.com/adarshsudarsan)
 
 </div>
 
