@@ -48,6 +48,4 @@
 
 ### 💡 "Learning Every Day, Building Every Day."
 
-⭐ Thanks for visiting my GitHub profile!
-
 </div>
